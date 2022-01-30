@@ -15,3 +15,8 @@ To run the AI:
   5. Done!
 
 Note: Might have to change some coordinates and stuff if your monitor isnt 1080p or your browser settings are different than mine, so please just check the code
+
+
+Edit: Its broken, if anyone wants to look through it and find the bug please dm me on discord middleclicker#9990
+
+Error: `ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 200, 31, 1), found shape=(32, 31, 200)`
